@@ -1,0 +1,30 @@
+{
+    "name": "iPad 電卓",
+    "short_name": "電卓",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "background_color": "black",
+    "theme_color": "black",
+    "categories": ["utilites", "生産性", "計算機"],
+    "screenshots" : [
+        {
+            "src": "calculator-image.jpeg",
+            "sizes": "1280x889",
+            "type": "image/jpeg",
+            "platform": "wide",
+            "label": "iPad用計算機 (ステージ・マネージャー・モードの使用)"
+        }
+    ],
+    "display": "standalone",
+    "start_url": "/Version1.2.0.2/ja-jp"
+}
