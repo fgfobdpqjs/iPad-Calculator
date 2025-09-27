@@ -1,0 +1,30 @@
+{
+    "name": "iPad 计算器",
+    "short_name": "计算器",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "background_color": "black",
+    "theme_color": "black",
+    "categories": ["功利", "生产力", "计算器"],
+    "screenshots" : [
+        {
+            "src": "calculator-image.jpeg",
+            "sizes": "1280x889",
+            "type": "image/jpeg",
+            "platform": "wide",
+            "label": "适用于 iPad 的计算器 (使用台前调度模式)"
+        }
+    ],
+    "display": "standalone",
+    "start_url": "/Version1.2.0.2/zh-Hans"
+}
